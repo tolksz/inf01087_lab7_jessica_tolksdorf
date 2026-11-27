@@ -7,3 +7,8 @@ Disciplina: INF01087
 Lorem Ipsum
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
+
+## Projeto
+Este repositório foi criado para praticar o fluxo básico de controle de versão com git e gitHub na disciplina introcic
+
+eof
