@@ -1,4 +1,5 @@
-# Laboratório 7 - Git e GitHub (Main)
+#Laboratório 7 - Git e GitHub
+>>>>>>> altera-titulo
 Nome: Jéssica E. Tolksdorf
 Curso: Ciência da Computação
 Disciplina: INF01087
